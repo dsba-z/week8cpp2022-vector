@@ -76,3 +76,8 @@ CMakeLists.txt.user
 code/build*
 
 build
+.vscode/settings.json
+code/src/problem1_vector3d/main
+.gitignore
+.gitignore
+.vscode/settings.json
