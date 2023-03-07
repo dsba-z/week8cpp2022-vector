@@ -76,3 +76,6 @@ CMakeLists.txt.user
 code/build*
 
 build
+code/src/problem1_vector3d/main
+.vscode/settings.json
+code/src/problem1_vector3d/tempCodeRunnerFile.cpp
